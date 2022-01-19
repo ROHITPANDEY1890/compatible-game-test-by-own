@@ -1,0 +1,1 @@
+# compatible-game-test-by-own
